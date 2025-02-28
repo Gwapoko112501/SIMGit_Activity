@@ -1,1 +1,11 @@
-Hello, World! 
+Answer the following:
+
+What challenges did you face during this activity?
+- The challenges tha I encounter during this activity is when I git add hello.txt, it says that it's fatal. So what I did was finding solution and asking an ai to help to solve this problem and yes it solved. There is just a little tweak to work the command.
+
+Which Git command was the most confusing?
+- I didn't find it confusing since I've use git before when I developed a project.
+
+How can version control help in real-world software development?
+- Version control helps in real-world software development by tracking changes, allowing developers to review and revert code when needed. It enables seamless collaboration by letting multiple developers work on the same project without conflicts. Branching and merging allow parallel development and experimentation while ensuring smooth integration. It also acts as a backup system, preventing data loss by storing previous versions of the code. Additionally, version control improves code quality through peer reviews and facilitates continuous integration by automating testing and deployment. Overall, it enhances efficiency, reliability, and team productivity in software projects.
+
